@@ -39,18 +39,19 @@ const estilos = StyleSheet.create({
         flex: 1,
         paddingStart: 10,
         paddingVertical: 10,
-        backgroundColor: '#e1e5f2',
+        backgroundColor: '#736868',
         borderRadius: 5,
     },    
     texto: {
         color: '#010228',
         fontSize: 16,
-        fontWeight: '600'
+        fontWeight: '600',
+        color: '#ffffff'
     },
     botao: {
         width: 60,
         marginStart: 10,
-        backgroundColor: '#590d22',
+        backgroundColor: '#594B46',
         justifyContent: 'center',
         alignItems: 'center',
         borderRadius: 5,
