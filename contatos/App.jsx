@@ -15,6 +15,6 @@ export default function App() {
 const estilos = StyleSheet.create({
     conteiner: {
       flex: 1,
-      backgroundColor: '#000',
+      backgroundColor: '#D9D7CC',
     },
   });
